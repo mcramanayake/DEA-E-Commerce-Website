@@ -1,0 +1,24 @@
+SMAP
+addnew_jsp.java
+JSP
+*S JSP
+*F
++ 0 addnew.jsp
+adminpage/addnew.jsp
++ 1 allCss.jsp
+adminpage/allCss.jsp
+*L
+5,12:49
+1#1,15:61
+16#0,3:75
+19:78,2
+20,81:80
+101:161,2
+102:163
+103:164,2
+104,3:166
+107:169,2
+108:171
+109:172,2
+110,24:174
+*E
